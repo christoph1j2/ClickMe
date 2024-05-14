@@ -1,0 +1,15 @@
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\bin\Debug\ClickMe.exe.config
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\bin\Debug\ClickMe.exe
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\bin\Debug\ClickMe.pdb
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\obj\Debug\ClickMe.csproj.AssemblyReference.cache
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\obj\Debug\MainWindow.g.cs
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\obj\Debug\App.g.cs
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\obj\Debug\ClickMe_MarkupCompile.cache
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\obj\Debug\ClickMe_MarkupCompile.lref
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\obj\Debug\MainWindow.baml
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\obj\Debug\ClickMe.g.resources
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\obj\Debug\ClickMe.Properties.Resources.resources
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\obj\Debug\ClickMe.csproj.GenerateResource.cache
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\obj\Debug\ClickMe.csproj.CoreCompileInputs.cache
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\obj\Debug\ClickMe.exe
+C:\Users\Q11069\Documents\Projekte\C#\ClickMe\ClickMe\obj\Debug\ClickMe.pdb

@@ -1,0 +1,12 @@
+﻿<Window x:Name="ClickMe_Window" x:Class="ClickMe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClickMe"
+        mc:Ignorable="d"
+        Title="ClickMe" Height="623.5" Width="694" ResizeMode="CanMinimize" Background="#FFC3C3C3" Loaded="ClickMe_Window_Loaded">
+    <Canvas Name="tollesCanvas" HorizontalAlignment="Left" Height="582" Margin="10,10,0,0" VerticalAlignment="Top" Width="660" Loaded="tollesCanvas_Loaded">
+        
+    </Canvas>
+</Window>
